@@ -1,2 +1,0 @@
-nasm -f elf64 -g $1.asm
-gcc -g -o $1 $1.o
